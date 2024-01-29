@@ -28,18 +28,17 @@ RoastHub is specifically designed to store, manage, and share roasts encountered
 ## FrontEnd 
 ![image](https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/64bb5743-292d-4023-bd11-1dd9f871cebc)
 <br>
-<img width="922" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/49279082-c541-4e2d-8983-622e673cfc69">
+<img width="1051" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/49279082-c541-4e2d-8983-622e673cfc69">
 <br>
-<img width="877" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/a9f6f340-59d9-4cf4-bf79-6efae877fe94">
+<img width="1051" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/a9f6f340-59d9-4cf4-bf79-6efae877fe94">
 <br>
-<img width="1021" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/dba0cedf-c21a-431c-a5e8-84f342622ed4">
-
+<img width="1051" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/dba0cedf-c21a-431c-a5e8-84f342622ed4">
 <br>
-<img width="1030" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/64a231c4-027c-44ed-abe0-63afc284b95e">
+<img width="1051" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/64a231c4-027c-44ed-abe0-63afc284b95e">
 <be>
 <img width="1051" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/77d687a8-d2d1-43d3-9122-487b6ca2086d">
 <be>
-<img width="555" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/a7a52ac0-0498-4b85-a7a2-5b5940dbc1fb">
+<img width="1051" alt="image" src="https://github.com/guanjie-tom-wang/RoastHub-React/assets/80410357/a7a52ac0-0498-4b85-a7a2-5b5940dbc1fb">
 
 
 ## License
