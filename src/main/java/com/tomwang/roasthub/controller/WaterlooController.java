@@ -63,6 +63,10 @@ public ResponseEntity<?> uploadFile(
         String type) {
     logger.info("Uploading: " + token);
     // 验证 token
+    if(token.equals("null")){
+        return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("用户未登录或令牌无效");
+
+    }
     Users user = loginService.checkToken(token);
     if (user == null) {
         return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("用户未登录或令牌无效");

@@ -17,6 +17,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
+import java.util.logging.Logger;
 
 
 @Service
@@ -64,9 +65,10 @@ public class LoginServiceImpl implements LoginService {
     @Override
     public Users checkToken(String token) {
         //token为空返回null
-        if(StringUtils.isBlank(token)){
+        if(StringUtils.isBlank(token) || StringUtils.isEmpty(token) ){
             return null;
         }
+        System.out.println(token);
         Map<String, Object> stringObjectMap = JWTUtils.checkToken(token);
         //解析失败
         if(stringObjectMap ==null){
